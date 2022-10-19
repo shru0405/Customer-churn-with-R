@@ -55,7 +55,9 @@ d.Distribution - Continuous Variables:
 
 
  1.Age is a bit right-skewed
+ 
  2.Balance is fairly normal distributed
+ 
  3.Most credit scores are above 600, it is possible that high quality customers will churn
 
 e.Correlation Matrix:
